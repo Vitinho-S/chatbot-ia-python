@@ -1,6 +1,7 @@
 # 🤖 Chatbot IA com Python
 
 Este projeto é um chatbot simples utilizando a API da OpenAI.
+Projeto desenvolvido como desafio da DIO.
 
 ## 🚀 Tecnologias utilizadas
 - Python
